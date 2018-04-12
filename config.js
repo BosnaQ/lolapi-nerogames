@@ -1,6 +1,6 @@
 const config = {
 
-    apikey: 'RGAPI-3f364495-e614-40c8-a71b-2a195ca75aec'
+    apikey: 'RGAPI-bf198614-0e28-4aea-a86a-9a2ef9d75c44'
 
 }
 
